@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# World Wide Weather
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Overview
+
+World Wide Weather provides daily weather information for major cities across the globe
+LIVE LINK : link here
+
+## Features
+
+- Click and drag to spin the globe
+- Scroll up and down to zoom in and out the globe and view any location on eath. 
+- Use the search bar to look up a city, click on the drop down or press search to view the city and get its current weather forecast. 
 
 ## Available Scripts
 
@@ -68,3 +79,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Apis
+
+World Wide Weather sources data from two Apis
+- Mapbox : "https://www.mapbox.com/"
+- Tomorrow.io : "https://www.tomorrow.io/weather-api/weather-maps-api/"
+
+Mapbox provides custom or ready-made interactive map styles 
+Tomorrow.io provides real time weather forecast 
+
+## Tech stack
+
+Front-end:
+
+- React / Create-React-App 
+
+Back-end:
+- Node.js 
+- Express
+
